@@ -46,7 +46,7 @@ pnpm dev
 - Usage metering for seat-based billing
 - OpenTelemetry distributed tracing
 
-## Build notes
+## Documentation
 
-For the real debugging journey behind this project — dead ends, version
-mismatches, and root-causing tricky bugs — see [docs/BUILD_LOG.md](docs/BUILD_LOG.md).
+- [Architecture & component reference](docs/ARCHITECTURE.md) — what each part of the codebase does and why
+- [Build log](docs/BUILD_LOG.md) — the debugging journey behind this project
