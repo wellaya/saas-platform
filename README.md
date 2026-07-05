@@ -45,3 +45,8 @@ pnpm dev
 - Per-tenant audit log table
 - Usage metering for seat-based billing
 - OpenTelemetry distributed tracing
+
+## Build notes
+
+For the real debugging journey behind this project — dead ends, version
+mismatches, and root-causing tricky bugs — see [docs/BUILD_LOG.md](docs/BUILD_LOG.md).
